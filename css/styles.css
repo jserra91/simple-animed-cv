@@ -38,13 +38,13 @@
     padding: .5em 1.5em;
     position: relative;
     text-align: center;
-    margin-left: 40%;
+    margin-left: 32%;
 }
 
 .triangle {
     width: 0; 
     height: 0;
-    margin-left: 41%;
+    margin-left: 34%;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 12px solid lightblue;
@@ -55,3 +55,18 @@
     height: 40%;
 }
 
+.botones {
+    text-align: center;
+}
+
+.margin-20 {
+    margin: 20px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
