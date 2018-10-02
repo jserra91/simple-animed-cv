@@ -1,0 +1,57 @@
+.cabecera {
+    min-width: 255px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 15px;
+    position: relative;
+    text-align: right;
+    z-index: 986;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    -webkit-user-select: none;
+}
+.image-profile {
+    width: 30px; height: 30px;
+    border-radius: 50%;
+}
+
+.name {
+    width: 100%;
+    text-align: center;
+    margin-top: 45px;
+}
+
+.im {
+    width: 100%;
+    border-color: black;
+    padding: .5em 1.5em;
+    position: relative;
+    font-family: 'Overlock', cursive;
+    text-align: center;
+}
+
+.im-text {
+    width: 100px;
+    background-color: lightblue;
+    padding: .5em 1.5em;
+    position: relative;
+    text-align: center;
+    margin-left: 40%;
+}
+
+.triangle {
+    width: 0; 
+    height: 0;
+    margin-left: 41%;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 12px solid lightblue;
+}
+
+.logo-profile {
+    width: 40%;
+    height: 40%;
+}
+
